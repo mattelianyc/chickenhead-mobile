@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "chickenhead-mobile",
+    "description": "A very interesting project.",
+    "slug": "chickenhead-mobile",
+    "privacy": "public",
+    "sdkVersion": "28.0.0",
+    "platforms": ["ios", "android"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/clucka.png",
+    "splash": {
+      "image": "./assets/images/clucka.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff",
+      "padding": "40px"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
